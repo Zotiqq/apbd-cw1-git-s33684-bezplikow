@@ -6,7 +6,7 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Feature!");
 Console.WriteLine("Feature2");
 
-Console.WriteLine("Main");
+Console.WriteLine("fetureconflict");
 Statisticshelper.CalculateMax(new []{1, 2, 3});
 
 
