@@ -10,5 +10,8 @@ public class Statisticshelper
     {
         return 0.0;
     }
-    
+    public static double CalculateMax2(int[] values)
+    {
+        return 0.0;
+    }
 }
