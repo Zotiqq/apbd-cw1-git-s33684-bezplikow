@@ -2,7 +2,7 @@
 
 public class Statisticshelper
 {
-    static double CalculateMax(int[] values)
+    public static double CalculateMax(int[] values)
     {
         return 0.0;
     }
