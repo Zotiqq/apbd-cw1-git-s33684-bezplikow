@@ -8,3 +8,4 @@ Console.WriteLine("Feature2");
 
 Console.WriteLine("Main");
 Statisticshelper.CalculateMax(new []{1, 2, 3});
+
