@@ -15,5 +15,10 @@ public class Statisticshelper
         return 0.0;
     }
     
+    public static double CalculateMin(int[] values)
+    {
+        return 0.0;
+    }
+    
     
 }
